@@ -482,3 +482,6 @@ $RECYCLE.BIN/
 
 # Vim temporary swap files
 *.swp
+
+bin/Debug/net9.0/
+obj/Debug/net9.0/
