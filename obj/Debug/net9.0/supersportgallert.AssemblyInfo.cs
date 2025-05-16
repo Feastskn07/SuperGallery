@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("supersportgallert")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+3963b47f49617dc97c492cca9553b0b10fe478be")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+209806c36cb120176eeae79829791ac87b6b64c2")]
 [assembly: System.Reflection.AssemblyProductAttribute("supersportgallert")]
 [assembly: System.Reflection.AssemblyTitleAttribute("supersportgallert")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
