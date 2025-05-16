@@ -95,3 +95,4 @@ C:\Users\ibrah\OneDrive\Masaüstü\Work\internet_programciligi_II\project\supers
 C:\Users\ibrah\OneDrive\Masaüstü\Work\internet_programciligi_II\project\supersportgallert\obj\Debug\net9.0\supersportgallert.pdb
 C:\Users\ibrah\OneDrive\Masaüstü\Work\internet_programciligi_II\project\supersportgallert\obj\Debug\net9.0\supersportgallert.genruntimeconfig.cache
 C:\Users\ibrah\OneDrive\Masaüstü\Work\internet_programciligi_II\project\supersportgallert\obj\Debug\net9.0\ref\supersportgallert.dll
+C:\Users\ibrah\OneDrive\Masaüstü\Work\internet_programciligi_II\project\supersportgallert\obj\Debug\net9.0\supersportgallert.sourcelink.json
