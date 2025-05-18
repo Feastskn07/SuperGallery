@@ -54,3 +54,10 @@ body {
 .dropdown-menu {
   transition: all 0.2s ease-in-out;
 }
+
+.card {
+  background-color: #dadada;
+  text-align: center;
+  padding: 2rem;
+  font-weight: bold;
+}
